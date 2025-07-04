@@ -19,11 +19,20 @@ public class Day2{
 
 
 
-//        Celcius to Farenheit
-        System.out.println("Enter the temperature in C :");
-        int x = in.nextInt();
-        float y = (float) ((x * 1.8) + 32);
-        System.out.println("Temperature in C: "+x+"Into farenheit->"+y);
+////        Celcius to Farenheit
+//        System.out.println("Enter the temperature in C :");
+//        int x = in.nextInt();
+//        float y = (float) ((x * 1.8) + 32);
+//        System.out.println("Temperature in C: "+x+"Into farenheit->"+y);
+
+        for(int i=0;i<10;i++) {
+
+
+            if (true) {
+                break;
+            }
+        }
+        System.out.print("J"+"a"+"v"+"a");
 
 
     }
